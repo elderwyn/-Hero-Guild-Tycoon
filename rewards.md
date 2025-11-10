@@ -40,11 +40,36 @@
 25. Prestige Token – Rewards for special missions, used in prestige system 
 
 ### 🌍 Empire Rewards
-- [Valor](Empires/Valor/rewards.md)
+- [Valor]()
+    1. **Valor Banner** – Guild decoration that boosts nearby units' morale  
+    2. **Knight’s Crest** – Cosmetic for melee units  
+    3. **Shield of Honor** – Temporary defense boost for units on missions  
+    4. **Valor Medallion** – XP bonus for all guild units  
+    5. **Golden Lance** – Weapon skin for cavalry units  
 - [Arcane](Empires/Arcane/rewards.md)
-- [Sylan](Empires/Sylan/rewards.md)
+    1. **Arcane Sigil** – Passive magic damage boost for units  
+    2. **Crystal Familiar** – Pet that generates small passive mana/energy  
+    3. **Mystic Robe** – Cosmetic for mage units  
+    4. **Spell Tome** – Ability upgrade token for spellcasters  
+    5. **Mana Prism** – Boosts mission reward quality when mage units are deployed
+- [Sylan]()
+    1. **Sylvan Totem** – Increases crit chance of forest units  
+    2. **Elven Cloak** – Cosmetic that makes units semi-transparent in missions  
+    3. **Forest Bow** – Weapon skin for ranged units  
+    4. **Leaf Charm** – Passive loot quality boost when units are in missions  
+    5. **Spirit of the Woods** – Temporary summon of a helper unit during missions  
 - [Iron](Empires/Iron/rewards.md)
+    1. **Iron Gear** – Increases guild building efficiency  
+    2. **Steam Automaton** – Pet that generates passive gold  
+    3. **Mechanical Armor** – Cosmetic for tank units  
+    4. **Energy Core** – Boost to unit attack speed temporarily  
+    5. **Engineer’s Toolkit** – Reduces building and unit upgrade costs  
 - [Crimson](Empires/Crimson/rewards.md)
+    1. **Crimson Banner** – Increases XP gain from missions  
+    2. **Bloodfang Blade** – Weapon skin for melee DPS units  
+    3. **Berserker Token** – Boosts attack for units during missions  
+    4. **Infernal Aura** – Passive gold bonus for high-risk missions  
+    5. **Flame Familiar** – Pet that adds bonus damage on missions 
 
 
 💡 **Implementation Tips:**
