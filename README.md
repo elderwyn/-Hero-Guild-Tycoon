@@ -33,7 +33,7 @@ Carousel or banners displaying:
 
 ### **Confirmation Prompt**
 Each Empire has a unique confirmation prompt  
-[List of prompts](empires/readme.md#Empire-Confirmation-Prompts)
+[List of prompts](Empires/readme.md#Empire-Confirmation-Prompts)
 
 ---
 
