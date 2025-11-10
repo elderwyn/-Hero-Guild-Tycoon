@@ -40,11 +40,11 @@
 25. Prestige Token – Rewards for special missions, used in prestige system 
 
 ### 🌍 Empire Rewards
-- [Valor](Empires/valor/rewards.md)
-- [Arcane](Empires/arcane/rewards.md)
-- [Sylan](Empires/sylan/rewards.md)
-- [Iron](Empires/iron/rewards.md)
-- [Crimson](Empires/crimson/rewards.md)
+- [Valor](Empires/Valor/rewards.md)
+- [Arcane](Empires/Arcane/rewards.md)
+- [Sylan](Empires/Sylan/rewards.md)
+- [Iron](Empires/Iron/rewards.md)
+- [Crimson](Empires/Crimson/rewards.md)
 
 
 💡 **Implementation Tips:**
@@ -52,4 +52,5 @@
 - Rewards can appear as **mission loot, event drops, or achievement bonuses**.  
 - Cosmetics can also **display prominently in the guild hall or unit selection screen**, giving visual feedback of progression.  
 - Some rewards can be **temporary (boosts) or permanent (cosmetic/unit unlocks)** to balance economy.  
+
 
